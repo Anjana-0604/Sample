@@ -1,6 +1,7 @@
 // index.js
-const greet = (name) => {
-  console.log(`Hello, ${name}!`);
-};
-
-greet('World');
+const feature3 = () => {
+    console.log("Feature 3: Enhanced feature functionality.");
+  };
+  
+  feature3();
+  
