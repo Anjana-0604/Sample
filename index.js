@@ -7,6 +7,6 @@ const greet = (name) => {
     console.log("Feature 2: New function added.");
   };
   
-  feature2();
   greet("GitHub");
+  feature2();
   
