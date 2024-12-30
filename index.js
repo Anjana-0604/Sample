@@ -1,7 +1,12 @@
 // index.js
-const feature5 = () => {
-    console.log("Feature 5: Finalized the last feature.");
+const greet = (name) => {
+    console.log(`Hello, ${name}! Welcome to Feature 1.`);
   };
   
-  feature5();
+  const feature2 = () => {
+    console.log("Feature 2: New function added.");
+  };
+  
+  feature2();
+  greet("GitHub");
   
