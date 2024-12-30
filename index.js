@@ -1,6 +1,7 @@
 // index.js
-const greet = (name) => {
-  console.log(`Hello, ${name}! welcome to Feature 1.`);
-};
-
-greet('github');
+const feature5 = () => {
+    console.log("Feature 5: Finalized the last feature.");
+  };
+  
+  feature5();
+  
